@@ -1,0 +1,118 @@
+.wrapper
+{ 
+    
+	width: 400px;
+	height: 425px;
+	color: #000;
+	top: 55%;
+	left: 60%;
+	padding: 60px 30px;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	box-shadow: 8px 8px 50px #000;
+	background-color: white ;
+}
+.h1
+{
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+    font-size: 22px;
+	color: #fff;
+	text-align: center;
+	margin-bottom: 8%;
+	font-family: cursive;
+}
+.wrapper input{
+	width: 100%;
+	margin-top: 20px;
+}
+
+.wrapper input[type=text]
+{
+ border: none;
+ border-bottom: 1px;
+ background: transparent;
+ outline: none;
+ height: 30px;
+ font-size: 16px;
+ opacity: 1;
+ color: black;
+}
+.wrapper input[type=password]
+{
+	border: none;
+ border-bottom: 1px;
+ background: transparent;
+ outline: none;
+ height: 30px;
+ font-size: 16px;
+ opacity: 1;
+ color: black;
+}
+.wrapper input[type=submit]
+{
+	border:none;
+	outline: none;
+	height: 40px;
+	background: #f6648b;
+	color: #fff;
+	font-size: 14px;
+	font-weight: bold;
+	
+}
+.wrapper input[type=submit]:hover{
+    cursor: pointer;
+}
+.bottom-text input{
+	width: 5%;
+	float: left;
+
+}
+.bottom-text a{
+	float: right;
+}
+.socials input[type=submit]{
+	border:none;
+	outline: none;
+	height: 50px;
+	width: 165px;
+	background: blue;
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+
+}
+.socials{
+	margin-top: 10px;
+	text-align: center;
+	
+
+}
+.toggle-btn{
+    font-size: 15px;
+	cursor: pointer;
+	background: transparent;
+	border : 0;
+	outline : none;
+	position: relative;
+}
+#btn{ 
+	top:0;
+	left:0;
+    position: absolute;
+	width:110px;
+	height:100%;
+	background: linear-gradient(to right,#ff105f,#ffad06);
+	border-radius: 30px;
+	transition: .5s;
+}
+.btn-box{
+	width: 220px;
+	height: 55px;
+	margin: -10px auto;
+	position: relative;
+	box-shadow: 0 0 20px 9px #ff61241f;
+	border-radius: 30px;
+}
