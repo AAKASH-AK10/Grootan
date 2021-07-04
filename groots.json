@@ -1,0 +1,62 @@
+[{
+"name": "Arun",
+"age": 21,
+"dob": "30-10-2000",
+"firstName": "Arun",
+"lastName": "Vignesh",
+"more": {
+"address_line1": "Mettu Street",
+"address_line2": "pamani",
+"address_line3": "Thiruthuraipoondi",
+"phone": "8767567890"
+}
+},{
+"name": "Kavya",
+"age": 22,
+"dob": "21-05-1999",
+"firstName": "Kavya",
+"lastName": "Priya",
+"more": {
+"address_line1": "Keela Street",
+"address_line2": "Saliyamangalam",
+"address_line3": "Cuddalore",
+"phone": "8657500786"
+}
+{
+"name": "Deepak",
+"age": 21,
+"dob": "27-07-2000",
+"firstName": "Deepak",
+"lastName": "Krishnan",
+"more": {
+"address_line1": "Muthaliyar Street",
+"address_line2": "Kothangudi",
+"address_line3": "Thiruvarur",
+"phone": "9057500789"
+}
+{
+"name": "Sri",
+"age": 18,
+"dob": "27-07-2002",
+"firstName": "Sri",
+"lastName": "Priya",
+"more": {
+"address_line1": "kavery Street",
+"address_line2": "Kellakudi",
+"address_line3": "Thanjavur",
+"phone": "6557500798"
+}
+{
+"name": "Hari",
+"age": 24,
+"dob": "27-07-1997",
+"firstName": "Hari",
+"lastName": "Prasath",
+"more": {
+"address_line1": "Mariyaman Street",
+"address_line2": "lalgudi",
+"address_line3": "Trichy",
+"phone": "7857500709"
+}
+}]
+
